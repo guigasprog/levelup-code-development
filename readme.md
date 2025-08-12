@@ -42,9 +42,9 @@ Hospedagem (Planejada) VercelNetlify (para landing page, se houver) e RenderHero
 
 ## 🗺️ Próximos Passos (Roadmap do Projeto)
 
-[x] Pilar 1 Visão e Escopo do Projeto (Este README)
-[ ] Pilar 2 Pesquisa e Design de UIUX (Prototipação das telas no Figma)
-[ ] Pilar 3 Definição da Arquitetura Técnica (Desenho detalhado dos componentes e APIs)
+[x] Pilar 1 Visão e Escopo do Projeto (Este README) <br>
+[ ] Pilar 2 Pesquisa e Design de UIUX (Prototipação das telas no Figma) <br>
+[ ] Pilar 3 Definição da Arquitetura Técnica (Desenho detalhado dos componentes e APIs) <br>
 [ ] Desenvolvimento do MVP
 
 ---
