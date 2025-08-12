@@ -8,11 +8,11 @@ O processo de aprender a programar, especialmente de forma autodidata, é freque
 
 ## ✨ A Solução
 
-[Nome do Projeto] é um aplicativo mobile, construído com React Native e Node.js, que ataca esse problema transformando a educação em um jogo. Através de uma interface gamificada, oferecemos
+LevelUp Code é um aplicativo mobile, construído com React Native e Node.js, que ataca esse problema transformando a educação em um jogo. Através de uma interface gamificada, oferecemos
 
-Trilhas de Habilidade (Skill Trees) Mapas visuais de conhecimento que guiam o usuário do básico ao avançado em diversas áreas da tecnologia.
-Recompensas Constantes Usuários ganham Pontos de Experiência (XP), moedas virtuais e medalhas (badges) por cada desafio concluído.
-Comunidade Integrada Um espaço para ver soluções de outros desenvolvedores, tirar dúvidas e competir em desafios semanais.
+Trilhas de Habilidade (Skill Trees) Mapas visuais de conhecimento que guiam o usuário do básico ao avançado em diversas áreas da tecnologia. <br>
+Recompensas Constantes Usuários ganham Pontos de Experiência (XP), moedas virtuais e medalhas (badges) por cada desafio concluído. <br>
+Comunidade Integrada Um espaço para ver soluções de outros desenvolvedores, tirar dúvidas e competir em desafios semanais. <br>
 Ambiente Prático Um editor de código integrado ao app permite que o usuário resolva desafios em qualquer lugar, a qualquer hora.
 
 ## 👥 Público-Alvo
@@ -24,21 +24,21 @@ Nosso foco é atender dois perfis principais de usuários
 
 ## 🚀 Recursos Chave (Escopo do MVP)
 
-Para a versão inicial do TCC, nosso foco está nas seguintes funcionalidades essenciais
+Para a versão inicial do TCC, nosso foco está nas seguintes funcionalidades essenciais <br>
 
-[ ] Autenticação de Usuários Cadastro e Login (com e-mailsenha e social com GitHub).
-[ ] Perfil do Usuário Visualização de Nível, XP, moedas e medalhas conquistadas.
-[ ] Skill Tree Interativa Implementação completa de UMA trilha (ex Fundamentos de Python).
-[ ] Juiz Online Sistema no backend para receber o código do desafio, executá-lo em um ambiente seguro (Docker) e retornar o resultado (sucessoerro).
+[ ] Autenticação de Usuários Cadastro e Login (com e-mailsenha e social com GitHub). <br>
+[ ] Perfil do Usuário Visualização de Nível, XP, moedas e medalhas conquistadas. <br>
+[ ] Skill Tree Interativa Implementação completa de UMA trilha (ex Fundamentos de Python). <br>
+[ ] Juiz Online Sistema no backend para receber o código do desafio, executá-lo em um ambiente seguro (Docker) e retornar o resultado (sucessoerro). <br>
 [ ] Tela de Desafio Interface com a descrição do problema e editor de código integrado.
 
 ## 🛠️ Stack Tecnológica
 
-Mobile (Frontend) React Native
-Backend Node.js com Express (ou NestJS) e TypeScript
-Banco de Dados PostgreSQL
-Ambiente de Execução Docker
-Hospedagem (Planejada) VercelNetlify (para landing page, se houver) e RenderHeroku (para o backend e banco de dados).
+Mobile (Frontend) React Native <br>
+Backend Node.js com Express (ou NestJS) e TypeScript <br>
+Banco de Dados PostgreSQL <br>
+Ambiente de Execução Docker <br>
+Hospedagem (Planejada) VercelNetlify (para landing page, se houver) e RenderHeroku (para o backend e banco de dados). <br>
 
 ## 🗺️ Próximos Passos (Roadmap do Projeto)
 
