@@ -2,7 +2,7 @@
 
 Um aplicativo mobile para transformar o aprendizado de programação em uma jornada épica e colaborativa.
 
-![Banner do LevelUp Code](https://github.com/guigasprog/levelup-code-development/raw/main/assets/banner/banner.png)
+![Banner do LevelUp Code](https://github.com/guigasprog/levelup-code-development/raw/main/assets/banner/banner-1280x640.png)
 
 ## 🎯 O Problema
 
