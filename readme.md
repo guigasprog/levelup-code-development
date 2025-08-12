@@ -2,6 +2,8 @@
 
 Um aplicativo mobile para transformar o aprendizado de programação em uma jornada épica e colaborativa.
 
+![Banner do LevelUp Code](https://github.com/guigasprog/levelup-code-development/raw/main/assets/banner/banner.png)
+
 ## 🎯 O Problema
 
 O processo de aprender a programar, especialmente de forma autodidata, é frequentemente uma jornada solitária, desestruturada e desmotivadora. Muitos aspirantes a desenvolvedores se sentem perdidos sobre o que estudar agora e acabam desistindo por falta de engajamento, feedback e um senso claro de progresso.
